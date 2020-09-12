@@ -3,7 +3,7 @@
 # Password Generator
 **GitHub Repo:** https://github.com/jacksolaro/password-generator
 
-**GitHub Pages Link:** https://jacksolaro.github.io/portfolio/
+**GitHub Pages Link:** https://jacksolaro.github.io/password-generator/
 
 ## About the project
 This is password generator project to help a user create a unique password that meets user provided criteria.
